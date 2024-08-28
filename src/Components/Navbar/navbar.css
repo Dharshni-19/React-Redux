@@ -1,0 +1,28 @@
+.item-count{
+    background-color: azure;
+    display: inline-block;
+    color: brown;
+    border-radius: 15px;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+p{
+    margin: 0;
+}
+
+.cart-item{
+    width: fit-content;
+    background-color: rgb(152, 36, 36);
+    color: white;
+}
+
+.nav-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(49, 48, 48);
+}
